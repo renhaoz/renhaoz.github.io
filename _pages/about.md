@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+My past research mainly focused on decision-making and computer vision. In decision-making, my research interest lies in **Reinforcement Learning** which I believe is one of the key factors leading to general artificial intelligence. I have used RL to solve many 6G communication problems, for example, I established a novel 6G wireless communication system in which each IoT device can allocate its spectrum and energy resources autonomously based on multi-agent deep reinforcement learning. I also published a patent reducing the sensing energy of SU by teaching them to learn the spectrum usage pattern of PU with DQN. RL has proved its ability to enable agents to make decisions intelligently, which can even beat human kinds in certain fields, so I decide to explore more in improving the performance of RL algorithms, making them more interpretable, and applying them in real scenes.
 
-A data-driven personal website
+Besides, I also worked a lot on **Computer Vision** and **Computer Graphics**, especially in program inference, detection, segmentation, OCR, and 3D reconstruction. I'm now working in BVC (Brown Visual Computing) group trying to inference programs from 3D shapes. Before that, I conducted several projects about detecting niduses on CT images, and identifying motions in figure skating in HPC lab of DUT. Besides, I have participated in the development of *Face Recognition based Time and Attendance System* as an algorithm engineer intern at Panasonic Corp., and *Recognition of Japanese cursive script* as an AI Lab researcher intern at Dalian Hi-think Computer Technology Corp, where I combined CNN and Transformer to detect and recognize cursive Japanese characters.
+
+Education
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+**Brown University** - M.S. in Electrical and Computer Engineering (GPA: 4.0)
+<p align="right">08/2022-05/2024 (Expected)</p>
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+- Teaching Assistant: ENGN 2912B: Scientific Programming in C++, CSCI 1951R: Introduction in Robotics
+- Research: Brown Visual Computing, Robotics
+- Advanced Course: Computer Graphics, Coordinate Mobile Robot, Deep Learning
+
+
+**Dalian University of Technology** - B.S. in Electrical Information Engineering (GPA: 3.8)
+<p align="right">09/2018-06/2022</p>
+
+- Teaching Assistant: Object Detection
+- Research: Human Perception Computing, Wireless Communication
+- Advanced Course: Communication Security System, Information Theory, 
+
 
 Getting started
 ======
