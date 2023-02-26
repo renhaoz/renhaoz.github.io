@@ -3,7 +3,7 @@ title: "When DSA Meets SWIPT: A Joint Power Allocation and Time Splitting Scheme
 collection: publications
 permalink: /publication/2022-10-10-When-DSA-Meets-SWIPT--A-Joint-Power-Allocation-and-Time-Splitting-Scheme-Based-on-Multi-Agent-Deep-Reinforcement-Learning
 date: 2022-10-10
-venue: 'IEEE Transactions on Vehicular Technology'
+venue: 'IEEE Transactions on Vehicular Technology (IEEE TVT)'
 paperurl: 'https://ieeexplore.ieee.org/document/9915473'
 citation: 'R. Zhang, X. Li and N. Zhao, &quot;When DSA Meets SWIPT: A Joint Power Allocation and Time Splitting Scheme Based on Multi-Agent Deep Reinforcement Learning,&quot; in IEEE Transactions on Vehicular Technology, vol. 72, no. 2, pp. 2740-2744, Feb. 2023, doi: 10.1109/TVT.2022.3213243.'
 ---
