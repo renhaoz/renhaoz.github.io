@@ -38,6 +38,8 @@ Honor
 ======
 ---
 Outstanding Graduates, 06/2022
+
 Second Prize, China Computer Design Competition, 05/2020
+
 Scholarship for Academic Excellence, 09/2019
 
