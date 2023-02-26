@@ -8,7 +8,7 @@
 # Site Settings
 github: [metadata]
 locale                   : "en-US"
-title                    : "Renhao (Norman) Zhang"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Renhao Zhang"
 description              : &description "personal description"
