@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Renhao Zhang, a first year master majored in computer engineering in Brown University. Before that, I got my Bachelor's degree in Dalian University of Technology.
+Hi! I'm Renhao Zhang, a master's student majored in computer engineering in [Brown University](https://www.brown.edu/). Before that, I got my Bachelor's degree in Electrical Information Engineering in [Dalian University of Technology](https://en.dlut.edu.cn/).
+
+**I'm currently applying for a Ph.D. program started in 2024 Fall.**
+
+My research mainly focus on reinforcement learning (RL), computer vision (CV) and computer graphics (CG). In my master's study, I've been working with [Prof. Daniel](https://dritchie.github.io/) as a research assistant (RA) 
 
 My past research mainly focused on decision-making and computer vision. In decision-making, my research interest lies in **Reinforcement Learning** which I believe is one of the key factors leading to general artificial intelligence. I have used RL to solve many 6G communication problems, for example, I established a novel 6G wireless communication system in which each IoT device can allocate its spectrum and energy resources autonomously based on multi-agent deep reinforcement learning. I also published a patent reducing the sensing energy of SU by teaching them to learn the spectrum usage pattern of PU with DQN. RL has proved its ability to enable agents to make decisions intelligently, which can even beat human kinds in certain fields, so I decide to explore more in improving the performance of RL algorithms, making them more interpretable, and applying them in real scenes.
 
