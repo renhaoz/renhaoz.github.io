@@ -8,15 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Renhao Zhang, a master's student majored in computer engineering in [Brown University](https://www.brown.edu/). Before that, I got my Bachelor's degree in Electrical Information Engineering in [Dalian University of Technology](https://en.dlut.edu.cn/).
+Hi, I'm Renhao Zhang! I'm a master's student majored in computer engineering in [Brown University](https://www.brown.edu/) (expected to graduate in May 2024), and I'm now doing cross-registration in [Harvard University](https://www.harvard.edu/). Before that, I got my Bachelor's degree in Electrical Information Engineering in [Dalian University of Technology](https://en.dlut.edu.cn/).
 
-**I'm currently applying for a Ph.D. program started in 2024 Fall.**
+**I'm currently applying for a Ph.D. program starting Fall 2024.**
 
-My research mainly focus on reinforcement learning (RL), computer vision (CV) and computer graphics (CG). In my master's study, I've been working with [Prof. Daniel](https://dritchie.github.io/) as a research assistant (RA) 
+My research mainly sits at **reinforcement learning**, **computer vision** and **computer graphics**. In my master's study, I've been working with [Prof. Daniel Ritchie](https://dritchie.github.io/) in [Brown Visual Computing](https://visual.cs.brown.edu/) group to do shape program inference with diffusion model. Besides, I've also been working with [Prof. George Konidaris](https://cs.brown.edu/people/gdk/) in [Intelligent Robot Lab](http://irl.cs.brown.edu/) to explore the intersection of model-based RL and parameterized action MDP.
 
-My past research mainly focused on decision-making and computer vision. In decision-making, my research interest lies in **Reinforcement Learning** which I believe is one of the key factors leading to general artificial intelligence. I have used RL to solve many 6G communication problems, for example, I established a novel 6G wireless communication system in which each IoT device can allocate its spectrum and energy resources autonomously based on multi-agent deep reinforcement learning. I also published a patent reducing the sensing energy of SU by teaching them to learn the spectrum usage pattern of PU with DQN. RL has proved its ability to enable agents to make decisions intelligently, which can even beat human kinds in certain fields, so I decide to explore more in improving the performance of RL algorithms, making them more interpretable, and applying them in real scenes.
-
-Besides, I also worked a lot on **Computer Vision** and **Computer Graphics**, especially in program inference, detection, segmentation, OCR, and 3D reconstruction. I'm now working in BVC (Brown Visual Computing) group trying to inference programs from 3D shapes. Before that, I conducted several projects about detecting niduses on CT images, and identifying motions in figure skating in HPC lab of DUT. Besides, I have participated in the development of *Face Recognition based Time and Attendance System* as an algorithm engineer intern at Panasonic Corp., and *Recognition of Japanese cursive script* as an AI Lab researcher intern at Dalian Hi-think Computer Technology Corp, where I combined CNN and Transformer to detect and recognize cursive Japanese characters.
+Before joining Brown, I also did many experiments about RL and CV in my undergraduate study. In RL, I used multi-agent DRL algorithms to allocate energy and spectrum resources for IoT devices, also used DRL to do dynamic spectrum access. In CV, I conducted several projects about detecting niduses on CT images, and identifying motions in figure skating in HPC lab of DUT. Besides, I have participated in the development of *Face Recognition based Time and Attendance System* as an algorithm engineer intern at Panasonic Corp., and *Recognition of Japanese cursive script* as an AI Lab researcher intern at Dalian Hi-think Computer Technology Corp, where I combined CNN and Transformer to detect and recognize cursive Japanese characters.
 
 Education
 ======
@@ -25,9 +23,9 @@ Education
 **Brown University** - Providence, RI, USA
 - Degree: M.S. in Electrical and Computer Engineering (GPA: 4.0)
 - Duration: 08/2022-05/2024 (Expected)
-- Teaching Assistant: ENGN 2912B: Scientific Programming in C++, CSCI 1951R: Introduction in Robotics
-- Research: Brown Visual Computing, Robotics
-- Advanced Course: Computer Graphics, Coordinate Mobile Robot, Deep Learning
+- Teaching Assistant: Scientific Programming in C++, Introduction in Robotics
+- Research: Brown Visual Computing group, Intelligent Robot Lab
+- Advanced Course: Computer Graphics, Coordinate Mobile Robot, Deep Learning, Inverse Reinforcement Learning
 
 
 **Dalian University of Technology** - Dalian, Liaoning, China
