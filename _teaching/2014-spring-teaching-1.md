@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching assistant of ENGN 2912B: Scientific Programming in C++"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "Brown University, Engineering"
+date: 2023-09-05
 location: "City, Country"
 ---
 

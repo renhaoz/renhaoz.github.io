@@ -19,6 +19,10 @@ Before joining Brown, I also did many experiments about RL and CV in my undergra
 Education
 ======
 ---
+**Harvard University** - Cambridge, MA, USA
+- Cross-Registration
+- Duration: 09/2023-12/2023 (Expected)
+- Advanced Course: Inverse Problems in Reinforcement Learning-with healthcare applications
 
 **Brown University** - Providence, RI, USA
 - Degree: M.S. in Electrical and Computer Engineering (GPA: 4.0)

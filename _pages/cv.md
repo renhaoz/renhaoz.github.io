@@ -11,29 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in Dalian University of Technology, 09/2018-06/2022
-* M.S. in Brown University, 09/2022-05/2024(Expected)
+**Harvard University** - Cambridge, MA, USA
+- Cross-Registration
+- Duration: 09/2023-12/2023 (Expected)
+- Advanced Course: Inverse Problems in Reinforcement Learning-with healthcare applications
 
-Work experience
+**Brown University** - Providence, RI, USA
+- Degree: M.S. in Electrical and Computer Engineering (GPA: 4.0)
+- Duration: 08/2022-05/2024 (Expected)
+- Teaching Assistant: Scientific Programming in C++, Introduction in Robotics
+- Research: Brown Visual Computing group, Intelligent Robot Lab
+- Advanced Course: Computer Graphics, Coordinate Mobile Robot, Deep Learning, Inverse Reinforcement Learning
+
+
+**Dalian University of Technology** - Dalian, Liaoning, China
+- Degree: B.S. in Electrical Information Engineering (GPA: 3.8)
+- Duration: 09/2018-06/2022
+- Teaching Assistant: Object Detection
+- Research: Human Perception Computing, Wireless Communication
+- Advanced Course: Communication Security System, Information Theory, 
+
+<!-- Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
+* Summer 2023: Research Assistant
+  * Brown University
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2023: Research Assistant
+  * Brown University
+  * Supervisor: Professor Git -->
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Coding: Python, C++, C, Matlab, Assembly Language
+* DL framework: PyTorch, Tensorflow2, JAX
 
 Publications
 ======
@@ -41,11 +52,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
