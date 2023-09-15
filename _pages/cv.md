@@ -31,7 +31,7 @@ Education
 - Research: Human Perception Computing, Wireless Communication
 - Advanced Course: Communication Security System, Information Theory, 
 
-<!-- Work experience
+Research experience
 ======
 * Summer 2023: Research Assistant
   * Brown University
@@ -39,7 +39,7 @@ Education
 
 * Summer 2023: Research Assistant
   * Brown University
-  * Supervisor: Professor Git -->
+  * Supervisor: Professor Git
   
 Skills
 ======
