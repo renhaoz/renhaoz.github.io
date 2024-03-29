@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download my CV from [here](https://github.com/renhaoz/renhaoz.github.io/blob/master/CV.pdf)!
+Download my CV from [here](https://drive.google.com/file/d/1yOoHxuBJKjEj9ylN5dKWpEB0HndDKLGW/view?usp=sharing)!
 
 Please email me at `renhaoz0226@gmail.com` if you need my latest resume!
 
