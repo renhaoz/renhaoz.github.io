@@ -8,34 +8,47 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Renhao Zhang! I'm an incoming Computer Science PhD student in [Autonomous Learning Laboratory](https://all.cs.umass.edu/) at [University of Massachusetts Amherst](https://www.umass.edu/). I'm currently a master's student majored in Electrical and Computer Engineering at [Brown University](https://www.brown.edu/) (expected to graduate in May 2024). Previously, I was cross-registered for Computer Science at [Harvard University](https://www.harvard.edu/) during 2023 fall semester. Before that, I got my Bachelor's degree in Electrical Information Engineering in [Dalian University of Technology](https://en.dlut.edu.cn/).
+Hi, I'm Renhao Zhang! I'm an incoming Computer Science PhD student in [Autonomous Learning Laboratory](https://all.cs.umass.edu/) at [University of Massachusetts Amherst](https://www.umass.edu/). I'm currently a master's student majored in Electrical and Computer Engineering at [Brown University](https://www.brown.edu/) (expected to graduate in May 2024). Previously, I was cross-registered for Computer Science at [Harvard University](https://www.harvard.edu/) during 2023 fall. Before that, I got my Bachelor's degree in Electrical Information Engineering in [Dalian University of Technology](https://en.dlut.edu.cn/).
 
-My research mainly sits at **reinforcement learning**, **generative model**, **computer vision**, **computer graphics** and **robotics**. In my master's study, I've been working with [Prof. George Konidaris](https://cs.brown.edu/people/gdk/) in [Intelligent Robot Lab](http://irl.cs.brown.edu/) to explore the intersection of model-based RL and hierarchical RL. Besides, I've also been working with [Prof. Daniel Ritchie](https://dritchie.github.io/) in [Brown Visual Computing](https://visual.cs.brown.edu/) group to do symbolic program inference from vision shapes with a recursive editing model. During my cross-registration in Harvard, I worked with [Prof. Finale Doshi-Velez](https://finale.seas.harvard.edu/) to use hierarchical imitation learning to interpret an [ICU dataset](https://physionet.org/content/mimiciii/1.4/).
-
-Before joining Brown, I mainly focused on the application of RL and CV in science and engineering field. In RL, I used multi-agent DRL algorithms to allocate energy and spectrum resources for IoT devices in a 6G wireless communication setting, also used DRL to do dynamic spectrum access. In CV, I conducted several projects about detecting niduses on CT images, and identifying motions in figure skating in HPC lab of DUT. Besides, I have participated in the development of *Face Recognition based Time and Attendance System* as an algorithm engineer intern at Panasonic Corp., and *Recognition of Japanese cursive script* as an AI Lab researcher intern at Dalian Hi-think Computer Technology Corp, where I combined CNN and Transformer to detect and recognize cursive Japanese characters.
+My research mainly sits at **reinforcement learning**, **generative model**, **computer vision**, **computer graphics** and **robotics**. In my master's study, I've been working with [Prof. George Konidaris](https://cs.brown.edu/people/gdk/) in [Intelligent Robot Lab](http://irl.cs.brown.edu/) and [Prof. Daniel Ritchie](https://dritchie.github.io/) in [Brown Visual Computing Group](https://visual.cs.brown.edu/) at Brown University, and with [Prof. Finale Doshi-Velez](https://finale.seas.harvard.edu/) during my visit at Harvard University. Before that, I was advised by Prof. [Shenglan Liu](http://faculty.dlut.edu.cn/liushenglan/en/index.htm) and Prof. [Xuanheng Li](http://faculty.dlut.edu.cn/2018011001/en/index.htm) at Dalian University of Technology.
 
 Education
 ======
 ---
+**University of Massachusetts Amherst, MA, USA** - Amherst, MA, USA
+- Degree: Ph.D. in Computer Science
+- Duration: 09/2024-04/2029 (Expected)
+- Research: Supervised by Prof. Bruno Castro da Silva in Autonomous Learning Laboratory
+
 **Harvard University** - Cambridge, MA, USA
-- Cross-Registered in Computer Science
+- Cross-Registered in Computer Science (GPA: 4.0)
 - Duration: 09/2023-12/2023
-- Advanced Course: Inverse Problems in Reinforcement Learning-with healthcare applications
+- Research: Supervised by Prof. Finale Doshi-Velez
 
 **Brown University** - Providence, RI, USA
 - Degree: M.S. in Electrical and Computer Engineering (GPA: 3.8)
 - Duration: 08/2022-05/2024 (Expected)
 - Teaching Assistant: Scientific Programming in C++, Introduction in Robotics
-- Research: Brown Visual Computing group, Intelligent Robot Lab
-- Advanced Course: Computer Graphics, Coordinate Mobile Robot, Deep Learning, Inverse Reinforcement Learning
-
+- Research: Supervised by Prof. George Konidaris in Intelligent Robot Lab, and Prof. Daniel Ritchie in Brown Visual Computing Group
 
 **Dalian University of Technology** - Dalian, Liaoning, China
 - Degree: B.S. in Electrical Information Engineering (GPA: 3.8)
 - Duration: 09/2018-06/2022
 - Teaching Assistant: Object Detection
-- Research: Human Perception Computing, Wireless Communication
-- Advanced Course: Communication Security System, Information Theory, 
+- Research: Supervised by Prof. Xuanheng Li and Prof. Shenglan Liu
+
+Work
+======
+---
+**Dalian Hi-think Computer Technology Corp** - Dalian, Liaoning, China
+- Position: Research intern, AI Lab
+- Duration: 04/2022-06/2022
+- Project: Japanese Script Recognition; Defect Detection; Deep Learning Framework Migration
+
+**Panasonic Software Development** - Dalian, Liaoning, China
+- Position: Algorithm Engineer
+- Duration: 06/2021 - 07/2021
+- Project: Time and Attendance System based on face recognition
 
 
 Honor
