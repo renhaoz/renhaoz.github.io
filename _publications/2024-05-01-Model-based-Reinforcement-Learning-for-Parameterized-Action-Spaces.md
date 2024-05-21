@@ -3,7 +3,7 @@ title: "Model-based Reinforcement Learning for Parameterized Action Spaces"
 collection: publications
 permalink: /publication/2024-05-01-Model-based-Reinforcement-Learning-for-Parameterized-Action-Spaces
 date: 2024-05-01
-venue: 'Arxiv Preprint'
+venue: 'Forty-first International Conference on Machine Learning (ICML)'
 paperurl: 'https://arxiv.org/abs/2404.03037'
 citation: 'Zhang, R., Fu, H., Miao, Y., & Konidaris, G. (2024). Model-based Reinforcement Learning for Parameterized Action Spaces. arXiv preprint arXiv:2404.03037.'
 ---
