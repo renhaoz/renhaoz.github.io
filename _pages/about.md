@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Renhao Zhang! I'm an incoming Computer Science PhD student in [Autonomous Learning Laboratory](https://all.cs.umass.edu/) at [University of Massachusetts Amherst](https://www.umass.edu/). I'm currently a master's student majored in Electrical and Computer Engineering at [Brown University](https://www.brown.edu/) (expected to graduate in May 2024). Previously, I was cross-registered for Computer Science at [Harvard University](https://www.harvard.edu/) during 2023 fall. Before that, I got my Bachelor's degree in Electrical Information Engineering in [Dalian University of Technology](https://en.dlut.edu.cn/).
+Hi, I'm Norman, Renhao Zhang (张仁浩), currently a Computer Science PhD student in [Autonomous Learning Laboratory](https://all.cs.umass.edu/) at [University of Massachusetts Amherst](https://www.umass.edu/), supervised by [Professor Bruno Castro da Silva](https://people.cs.umass.edu/~bsilva/). I got my master's degree in Electrical and Computer Engineering at [Brown University](https://www.brown.edu/). Previously, I was cross-registered for Computer Science at [Harvard University](https://www.harvard.edu/) during 2023 fall. Before that, I got my Bachelor's degree in Electrical Information Engineering in [Dalian University of Technology](https://en.dlut.edu.cn/).
 
-My research mainly sits at **reinforcement learning**, **generative model**, **computer vision**, **computer graphics** and **robotics**. In my master's study, I've been working with [Prof. George Konidaris](https://cs.brown.edu/people/gdk/) in [Intelligent Robot Lab](http://irl.cs.brown.edu/) and [Prof. Daniel Ritchie](https://dritchie.github.io/) in [Brown Visual Computing Group](https://visual.cs.brown.edu/) at Brown University, and with [Prof. Finale Doshi-Velez](https://finale.seas.harvard.edu/) during my visit at Harvard University. Before that, I was advised by Prof. [Shenglan Liu](http://faculty.dlut.edu.cn/liushenglan/en/index.htm) and Prof. [Xuanheng Li](http://faculty.dlut.edu.cn/2018011001/en/index.htm) at Dalian University of Technology.
+My research mainly sits at **Embodied AI**, particularly, **reinforcement learning** and **robotics**. Besides, I'm also interested in **multimodal preception**, **generative model**, **computer vision**, and **large language modal**, I have projects in these areas from time to time. In my master's study, I've been working with [Prof. George Konidaris](https://cs.brown.edu/people/gdk/) in [Intelligent Robot Lab](http://irl.cs.brown.edu/) and [Prof. Daniel Ritchie](https://dritchie.github.io/) in [Brown Visual Computing Group](https://visual.cs.brown.edu/) at Brown University, and with [Prof. Finale Doshi-Velez](https://finale.seas.harvard.edu/) during my visit at Harvard University. Before that, I was advised by Prof. [Xuanheng Li](http://faculty.dlut.edu.cn/2018011001/en/index.htm) and Prof. [Shenglan Liu](http://faculty.dlut.edu.cn/liushenglan/en/index.htm) at Dalian University of Technology.
 
 Education
 ======
@@ -27,7 +27,7 @@ Education
 
 **Brown University** - Providence, RI, USA
 - Degree: M.S. in Electrical and Computer Engineering (GPA: 3.8)
-- Duration: 08/2022-05/2024 (Expected)
+- Duration: 08/2022-05/2024 
 - Teaching Assistant: Scientific Programming in C++, Introduction in Robotics
 - Research: Supervised by Prof. George Konidaris in Intelligent Robot Lab, and Prof. Daniel Ritchie in Brown Visual Computing Group
 
