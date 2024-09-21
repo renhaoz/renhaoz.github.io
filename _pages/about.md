@@ -8,9 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Norman, Renhao Zhang (张仁浩), currently a Computer Science PhD student in [Autonomous Learning Laboratory](https://all.cs.umass.edu/) at [University of Massachusetts Amherst](https://www.umass.edu/), supervised by [Professor Bruno Castro da Silva](https://people.cs.umass.edu/~bsilva/). I got my master's degree in Electrical and Computer Engineering at [Brown University](https://www.brown.edu/). Previously, I was cross-registered for Computer Science at [Harvard University](https://www.harvard.edu/) during 2023 fall. Before that, I got my Bachelor's degree in Electrical Information Engineering in [Dalian University of Technology](https://en.dlut.edu.cn/).
+Hi, I'm Norman, Renhao Zhang (张仁浩), currently a Computer Science PhD student in [Autonomous Learning Laboratory](https://all.cs.umass.edu/) at [University of Massachusetts Amherst](https://www.umass.edu/), advised by [Professor Bruno Castro da Silva](https://people.cs.umass.edu/~bsilva/). 
 
-My research mainly sits at **Embodied AI**, particularly, **reinforcement learning** and **robotics**. Besides, I'm also interested in **multimodal preception**, **generative model**, **computer vision**, and **large language modal**, I have projects in these areas from time to time. In my master's study, I've been working with [Prof. George Konidaris](https://cs.brown.edu/people/gdk/) in [Intelligent Robot Lab](http://irl.cs.brown.edu/) and [Prof. Daniel Ritchie](https://dritchie.github.io/) in [Brown Visual Computing Group](https://visual.cs.brown.edu/) at Brown University, and with [Prof. Finale Doshi-Velez](https://finale.seas.harvard.edu/) during my visit at Harvard University. Before that, I was advised by Prof. [Xuanheng Li](http://faculty.dlut.edu.cn/2018011001/en/index.htm) and Prof. [Shenglan Liu](http://faculty.dlut.edu.cn/liushenglan/en/index.htm) at Dalian University of Technology.
+My current research mainly sits at **Embodied AI**, particularly, **reinforcement learning** and **robotics**. Besides, I'm also interested in **multimodal learning**, **generative model**, **computer vision**, and **large language modal**, I have projects in these areas from time to time.
+
+I got my master's degree in Electrical and Computer Engineering at [Brown University](https://www.brown.edu/), working on reinforcement learning with [Prof. George Konidaris](https://cs.brown.edu/people/gdk/) in [Intelligent Robot Lab](http://irl.cs.brown.edu/) and computer graphics with [Prof. Daniel Ritchie](https://dritchie.github.io/) in [Brown Visual Computing Group](https://visual.cs.brown.edu/). Previously, I was cross-registered at [Harvard University](https://www.harvard.edu/) during 2023 fall, working on an AI in healthcare project with [Prof. Finale Doshi-Velez](https://finale.seas.harvard.edu/). Before that, I got my Bachelor's degree in Electrical Information Engineering in [Dalian University of Technology](https://en.dlut.edu.cn/), advised by Prof. [Xuanheng Li](http://faculty.dlut.edu.cn/2018011001/en/index.htm) on applications of RL in wireless communication settings and Prof. [Shenglan Liu](http://faculty.dlut.edu.cn/liushenglan/en/index.htm) on computer vision.
+
+
+
+
+News
+======
+---
+- Sept 2024: Start my new role of a Phd student at UMass Amherst.
+- August 2024: I'll attend [RLC 2024](https://rl-conference.cc/organizers.html) at UMass Amherst.
+- May 2024: [DLPA](https://arxiv.org/abs/2404.03037) is accepted at [ICML 2024](https://icml.cc/). I'll be in Vienna attending this meeting.
+- April 2024: Graduated at Brown as an ECE master!
+
+
 
 Education
 ======
@@ -18,24 +33,22 @@ Education
 **University of Massachusetts Amherst, MA, USA** - Amherst, MA, USA
 - Degree: Ph.D. in Computer Science
 - Duration: 09/2024-04/2029 (Expected)
-- Research: Supervised by Prof. Bruno Castro da Silva in Autonomous Learning Laboratory
 
 **Harvard University** - Cambridge, MA, USA
 - Cross-Registered in Computer Science (GPA: 4.0)
 - Duration: 09/2023-12/2023
-- Research: Supervised by Prof. Finale Doshi-Velez
 
 **Brown University** - Providence, RI, USA
 - Degree: M.S. in Electrical and Computer Engineering (GPA: 3.8)
 - Duration: 08/2022-05/2024 
 - Teaching Assistant: Scientific Programming in C++, Introduction in Robotics
-- Research: Supervised by Prof. George Konidaris in Intelligent Robot Lab, and Prof. Daniel Ritchie in Brown Visual Computing Group
 
 **Dalian University of Technology** - Dalian, Liaoning, China
 - Degree: B.S. in Electrical Information Engineering (GPA: 3.8)
 - Duration: 09/2018-06/2022
 - Teaching Assistant: Object Detection
-- Research: Supervised by Prof. Xuanheng Li and Prof. Shenglan Liu
+
+
 
 Work
 ======

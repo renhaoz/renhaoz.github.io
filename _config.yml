@@ -8,9 +8,9 @@
 # Site Settings
 github: [metadata]
 locale                   : "en-US"
-title                    : "Renhao (Norman)"
+title                    : "Norman Renhao Zhang"
 title_separator          : "-"
-name                     : &name "Renhao Zhang"
+name                     : &name "Norman Renhao Zhang"
 description              : &description "personal description"
 url                      : https://renhaoz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Renhao (Norman) Zhang"
+  name             : "Norman Renhao Zhang"
   avatar           : "profile.png"
   bio              : "ScM in Brown"
   location         : "Providence, RI, USA"
