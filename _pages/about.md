@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Norman, Renhao Zhang (张仁浩), currently a Computer Science PhD student in [Autonomous Learning Laboratory](https://all.cs.umass.edu/) at [University of Massachusetts Amherst](https://www.umass.edu/), advised by [Professor Bruno Castro da Silva](https://people.cs.umass.edu/~bsilva/). 
+Hi, I'm Norman, Renhao Zhang (张仁浩), currently a Computer Science PhD student in [Autonomous Learning Laboratory](https://all.cs.umass.edu/) at [University of Massachusetts Amherst](https://www.umass.edu/), advised by [Professor Bruno Castro da Silva](https://people.cs.umass.edu/~bsilva/). (The founder, [Andrew Barto](https://people.cs.umass.edu/~barto/), and the first student, [Richard Sutton](http://www.incompleteideas.net/), of this lab were honored with the [2024 Turing Award](https://awards.acm.org/about/2024-turing) for 'creating' RL)
 
 My current research mainly sits at **Embodied AI**, particularly, **reinforcement learning** and **robotics**. Besides, I'm also interested in **multimodal learning**, **generative model**, **computer vision**, and **large language modal**, I have ideas and projects in these areas from time to time.
 
@@ -68,6 +68,7 @@ Work
 Honor
 ======
 ---
+- Paul Utgoff Memorial Scholarship, UMASS, 01/2025
 - Outstanding Graduates, 06/2022
 - Second Prize, China Computer Design Competition, 05/2020
 - Scholarship for Academic Excellence, 09/2019
