@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Norman Renhao Zhang"
   avatar           : "profile.png"
-  bio              : "ScM in Brown"
-  location         : "Providence, RI, USA"
+  bio              : "PhD in UMass Amherst"
+  location         : "Amherst, MA, USA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=tZorb98AAAAJ"
-  email            : "renhao_zhang@brown.edu"
+  email            : "renhaozhang@cs.umass.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

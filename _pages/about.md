@@ -37,7 +37,7 @@ Education
 - Duration: 09/2024-04/2029 (Expected)
 
 **Harvard University** - Cambridge, MA, USA
-- Cross-Registered in Computer Science (GPA: 4.0)
+- Exchange student in Computer Science (GPA: 4.0)
 - Duration: 09/2023-12/2023
 
 **Brown University** - Providence, RI, USA
