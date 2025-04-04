@@ -74,3 +74,12 @@ Honor
 - Second Prize, China Computer Design Competition, 05/2020
 - Scholarship for Academic Excellence, 09/2019
 
+Service
+======
+---
+Technical Reviewer:
+- NeurIPS: 2024, 2025
+- AISTATS: 2025
+- ICML: 2025
+- RLC: 2025
+
