@@ -14,12 +14,13 @@ My current research mainly sits at **reinforcement learning** and its intersecti
 
 I got my master's degree in Electrical and Computer Engineering at [Brown University](https://www.brown.edu/), working on reinforcement learning with [Prof. George Konidaris](https://cs.brown.edu/people/gdk/) in [Intelligent Robot Lab](http://irl.cs.brown.edu/) and computer graphics with [Prof. Daniel Ritchie](https://dritchie.github.io/) in [Brown Visual Computing Group](https://visual.cs.brown.edu/). Previously, I was cross-registered at [Harvard University](https://www.harvard.edu/) during 2023 fall, working on an AI in healthcare project with [Prof. Finale Doshi-Velez](https://finale.seas.harvard.edu/). Before that, I got my Bachelor's degree in Electrical Information Engineering in [Dalian University of Technology](https://en.dlut.edu.cn/), advised by Prof. [Xuanheng Li](http://faculty.dlut.edu.cn/2018011001/en/index.htm) on applications of RL in wireless communication settings and Prof. [Shenglan Liu](http://faculty.dlut.edu.cn/liushenglan/en/index.htm) on computer vision.
 
-
+I was also fortunate to intern with Amazon’s SCOT team, where I applied reinforcement learning to tackle inventory control problems.
 
 
 News
 ======
 ---
+- July 2025: Our paper RLLF got accepted to RLBrew and Finding the Frame workshop.
 - March 2025: Got my summer internship as an Applied Scientist Intern at Amazon SCOT team. I'll be in Bellevue from this May to August. 
 - Sept 2024: [Learning to Edit Visual Programs with Self-Supervision](https://arxiv.org/abs/2406.02383) is accepted to NeurIPS 2024! I'll be in Vancouver this November.
 - Sept 2024: Start my new role of a PhD student at UMass Amherst.
