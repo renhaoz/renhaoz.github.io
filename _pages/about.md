@@ -20,7 +20,8 @@ I was also fortunate to intern with Amazon’s SCOT team, where I applied reinfo
 News
 ======
 ---
-- July 2025: Our paper RLLF got accepted to RLBrew and Finding the Frame workshop.
+- I'll be a TA for [COMPSCI 389](https://people.cs.umass.edu/~pthomas/courses/COMPSCI_389_Fall2025.html) fall 2025 semester.
+- July 2025: Our [RLLF](https://openreview.net/attachment?id=W5GALARdqT&name=pdf) paper got accepted to RLBrew and Finding the Frame workshop at RLC 2025.
 - March 2025: Got my summer internship as an Applied Scientist Intern at Amazon SCOT team. I'll be in Bellevue from this May to August. 
 - Sept 2024: [Learning to Edit Visual Programs with Self-Supervision](https://arxiv.org/abs/2406.02383) is accepted to NeurIPS 2024! I'll be in Vancouver this November.
 - Sept 2024: Start my new role of a PhD student at UMass Amherst.
