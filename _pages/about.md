@@ -17,10 +17,15 @@ I got my master's degree in Electrical and Computer Engineering at [Brown Univer
 I was also fortunate to intern with Amazon’s SCOT team, where I applied reinforcement learning to tackle inventory control problems.
 
 
+
+<span style="color:#b30000;"><strong>Actively seeking Summer 2026 internship opportunities — please feel free to reach out!</strong></span>
+
+
 News
 ======
 ---
-- I'll be a TA for [COMPSCI 389](https://people.cs.umass.edu/~pthomas/courses/COMPSCI_389_Fall2025.html) fall 2025 semester.
+- Oct 2025: My intership paper got published on Amazon Machine Learning Conference (AMLC 2025), a premier internal conference, for a highlight talk.
+- Sept 2025: I'll be a TA for [COMPSCI 389](https://people.cs.umass.edu/~pthomas/courses/COMPSCI_389_Fall2025.html) fall 2025 semester.
 - July 2025: Our [RLLF](https://openreview.net/attachment?id=W5GALARdqT&name=pdf) paper got accepted to RLBrew and Finding the Frame workshop at RLC 2025.
 - March 2025: Got my summer internship as an Applied Scientist Intern at Amazon SCOT team. I'll be in Bellevue from this May to August. 
 - Sept 2024: [Learning to Edit Visual Programs with Self-Supervision](https://arxiv.org/abs/2406.02383) is accepted to NeurIPS 2024! I'll be in Vancouver this November.
@@ -84,4 +89,3 @@ Technical Reviewer:
 - AISTATS: 2025
 - ICML: 2025
 - RLC: 2025
-
