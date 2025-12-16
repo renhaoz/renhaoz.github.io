@@ -62,6 +62,11 @@ Education
 Work
 ======
 ---
+**Amazon** - Bellevue, WA, U.S.
+- Position: Applied Scientist Intern, SCOT
+- Duration: 05/2025-08/2025
+- Project: Learning Optimal Inventory Policies under Product Substitution using Hierarchical Reinforcement Learning
+
 **Dalian Hi-think Computer Technology Corp** - Dalian, Liaoning, China
 - Position: Research intern, AI Lab
 - Duration: 04/2022-06/2022

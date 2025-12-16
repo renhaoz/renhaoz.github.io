@@ -1,0 +1,15 @@
+---
+title: "PROMPTMINER: Black-Box Prompt Stealing against Text-to-Image Generative Models via Reinforcement Learning and Fuzz Optimization"
+collection: publications
+permalink: /publication/2025-12-15-PROMPTMINER-Black-Box-Prompt-Stealing-against-Text-to-Image-Generative-Models-via-Reinforcement-Learning-and-Fuzz-Optimization
+date: 2025-12-15
+venue: 'preprint'
+paperurl: 'https://arxiv.org/abs/2511.22119'
+citation: 'Li, M., Zhang, R., Wen, Z., Pan, S., da Silva, B. C., Zhai, J., & Ma, S. (2025). PROMPTMINER: Black-Box Prompt Stealing against Text-to-Image Generative Models via Reinforcement Learning and Fuzz Optimization. arXiv preprint arXiv:2511.22119.'
+---
+
+<a href='https://arxiv.org/abs/2511.22119'>Download paper here</a>
+
+Text-to-image (T2I) generative models such as Stable Diffusion and FLUX can synthesize realistic, high-quality images directly from textual prompts. The resulting image quality depends critically on well-crafted prompts that specify both subjects and stylistic modifiers, which have become valuable digital assets. However, the rising value and ubiquity of high-quality prompts expose them to security and intellectual-property risks. One key threat is the prompt stealing attack, i.e., the task of recovering the textual prompt that generated a given image. Prompt stealing enables unauthorized extraction and reuse of carefully engineered prompts, yet it can also support beneficial applications such as data attribution, model provenance analysis, and watermarking validation. Existing approaches often assume white-box gradient access, require large-scale labeled datasets for supervised training, or rely solely on captioning without explicit optimization, limiting their practicality and adaptability. To address these challenges, we propose PROMPTMINER, a black-box prompt stealing framework that decouples the task into two phases: (1) a reinforcement learning-based optimization phase to reconstruct the primary subject, and (2) a fuzzing-driven search phase to recover stylistic modifiers. Experiments across multiple datasets and diffusion backbones demonstrate that PROMPTMINER achieves superior results, with CLIP similarity up to 0.958 and textual alignment with SBERT up to 0.751, surpassing all baselines. Even when applied to in-the-wild images with unknown generators, it outperforms the strongest baseline by 7.5 percent in CLIP similarity, demonstrating better generalization. Finally, PROMPTMINER maintains strong performance under defensive perturbations, highlighting remarkable robustness.
+
+Citation: Li, M., Zhang, R., Wen, Z., Pan, S., da Silva, B. C., Zhai, J., & Ma, S. (2025). PROMPTMINER: Black-Box Prompt Stealing against Text-to-Image Generative Models via Reinforcement Learning and Fuzz Optimization. arXiv preprint arXiv:2511.22119.
