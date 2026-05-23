@@ -14,7 +14,7 @@ Hi, I'm Norman, Renhao Zhang (张仁浩), currently a Computer Science PhD candi
 
 I was fortunate to work with the [Amazon Supply Chain Optimization Team](https://www.amazon.science/tag/supply-chain-optimization-technologies), where I applied RL to inventory control problems, and with the [AWS Quick team](https://aws.amazon.com/quick/), where I worked on agentic planning methods for temporal reasoning.
 
-I got my master's degree in Electrical and Computer Engineering at [Brown University](https://www.brown.edu/), working on RL with [Prof. George Konidaris](https://cs.brown.edu/people/gdk/) in the [Intelligent Robot Lab](http://irl.cs.brown.edu/) and computer graphics with [Prof. Daniel Ritchie](https://dritchie.github.io/) in the [Brown Visual Computing Group](https://visual.cs.brown.edu/). Before that, I got my Bachelor's degree in Electrical Information Engineering at [Dalian University of Technology](https://en.dlut.edu.cn/), advised by Prof. [Xuanheng Li](http://faculty.dlut.edu.cn/2018011001/en/index.htm) on applications of RL in wireless communication settings and Prof. [Shenglan Liu](http://faculty.dlut.edu.cn/liushenglan/en/index.htm) on computer vision.
+I got my master's degree in Electrical and Computer Engineering at [Brown University](https://www.brown.edu/), working on hierarchical RL with [Prof. George Konidaris](https://cs.brown.edu/people/gdk/) and computer graphics with [Prof. Daniel Ritchie](https://dritchie.github.io/). Before that, I got my Bachelor's degree in Electrical Information Engineering at [Dalian University of Technology](https://en.dlut.edu.cn/), advised by Prof. [Xuanheng Li](http://faculty.dlut.edu.cn/2018011001/en/index.htm) on applications of RL in wireless communication and Prof. [Shenglan Liu](http://faculty.dlut.edu.cn/liushenglan/en/index.htm) on computer vision.
 
 My research lies in **reinforcement learning**, bridging theory and practice. On the theoretical side, I study sample-efficient learning and continual reinforcement learning; on the practical side, I apply these ideas to robotics, LLMs, and AI safety. More details can be found in my [research statement](/blog/research-statement/){:target="_self"}.
 
@@ -212,11 +212,13 @@ Advisors: [Xuanheng Li](http://faculty.dlut.edu.cn/2018011001/en/index.htm), [Sh
 <div class="paper-box-right">
   <div class="paper-box-text" markdown="1">
 
-Amazon — AWS Quick team, Bay Area, CA
+Amazon — AWS Quick team, Santa Clara, CA
 
 Applied Scientist Intern, *2026.05 – 2026.08*
 
-Project: Agentic planning methods for temporal reasoning.
+Host: Arshit Gupta, Han He, Sailik Sengupta, James Gung 
+
+Project: Agentic planning with temporal reasoning.
 
   </div>
   <div class="paper-box-image">
@@ -234,6 +236,8 @@ Project: Agentic planning methods for temporal reasoning.
 Amazon — SCOT team, Bellevue, WA
 
 Applied Scientist Intern, *2025.05 – 2025.08*
+
+Host: Mitchell Joblin, Alvaro Maggiar
 
 Project: Learning Optimal Inventory Policies under Product Substitution using Hierarchical Reinforcement Learning.
 
@@ -264,9 +268,9 @@ Projects: Japanese script recognition; defect detection; deep learning framework
 
 Panasonic Software Development, Dalian, China
 
-Algorithm Engineer, *2021.06 – 2021.07*
+Algorithm Engineer Intern, *2021.06 – 2021.07*
 
-Project: Time-and-attendance system based on face recognition.
+Project: Face recognition–based time and attendance system
 
   </div>
   <div class="paper-box-image">
