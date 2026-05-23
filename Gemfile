@@ -11,6 +11,15 @@ source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
 
+# Compatibility shims for newer Ruby (csv/webrick are no longer default gems
+# in Ruby 3.4+). Required for local jekyll 3.x preview only — github-pages
+# CI on remote runs older Ruby and does not need these.
+gem "csv"
+gem "webrick"
+gem "logger"
+gem "base64"
+gem "bigdecimal"
+
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
 
