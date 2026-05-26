@@ -22,14 +22,13 @@ My research lies in **reinforcement learning**, bridging theory and practice. On
 
 
 # 🔥 News
-- *2025.03*: &nbsp;Internship as an Applied Scientist Intern at the Amazon AWS Quick team. I'll be in bay area from May to August, 2026.
+- *2026.05*: &nbsp;Internship as an Applied Scientist Intern at the Amazon AWS Quick team. I'll be in bay area from May to August, 2026.
 - *2026.05*: I'm now a PhD candidate.
 - *2026.04*: &nbsp;🎉 Our [PDP]() paper was accepted to the ICML 2026. Unfortunately, I won't be able to be in Seoul to attend the conference in person.
 - *2026.02*: &nbsp;🎉 Our [PPROMPTMINERP]() paper was accepted to the CVPR 2026. I'll be in Denver for it.
 - *2025.10*: &nbsp;🎉 My internship paper was published at the Amazon Machine Learning Conference (AMLC 2025), a premier internal conference, for a highlight talk.
 - *2025.09*: &nbsp;I'll be a TA for [COMPSCI 389](https://people.cs.umass.edu/~pthomas/courses/COMPSCI_389_Fall2025.html) in the Fall 2025 semester.
 - *2025.07*: &nbsp;🎉 Our [RLLF](https://openreview.net/attachment?id=W5GALARdqT&name=pdf) paper was accepted to the RLBrew & Finding the Frame workshops at RLC 2025.
-- *2025.05*: &nbsp;Internship as an Applied Scientist Intern at the Amazon SCOT team. I'll be in Bellevue from May to August, 2025.
 
 <details style="border: 0px solid #e0e0e0; border-radius: 0px; margin-top: 0.1em;">
   <summary style="padding: 0.2em; cursor: pointer; font-weight: bold; color: #333;">
@@ -37,6 +36,7 @@ My research lies in **reinforcement learning**, bridging theory and practice. On
   </summary>
   <div style="padding: 0.1em 0.75em 0.75em 0em; border-top: 0px solid #e0e0e0; margin-top: 0.5em;" markdown="1">
 
+  - *2025.05*: &nbsp;Internship as an Applied Scientist Intern at the Amazon SCOT team. I'll be in Bellevue from May to August, 2025.
   - *2024.09*: &nbsp;🎉 [Learning to Edit Visual Programs with Self-Supervision](https://arxiv.org/abs/2406.02383) was accepted to NeurIPS 2024! I'll be in Vancouver this November.
   - *2024.09*: &nbsp;Started my new role as a PhD student at UMass Amherst.
   - *2024.08*: &nbsp;Attending [RLC 2024](https://rl-conference.cc/organizers.html) at UMass Amherst.
@@ -48,6 +48,18 @@ My research lies in **reinforcement learning**, bridging theory and practice. On
 
 
 # 📝 Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 DEMO Workshop</div><img src='images/sure_overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Uncertainty-Guided Reward Labeling for Reinforcement Learning under Limited Feedback**
+
+**Renhao Zhang**, Shreyas Chaudhari, Bruno Castro da Silva
+
+arXiv (coming soon) \| Code (coming soon)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/pdp_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
