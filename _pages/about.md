@@ -68,7 +68,7 @@ arXiv (coming soon) \| Code (coming soon)
 
 **Renhao Zhang**, Haotian Fu, Mingxi Jia, George Konidaris, Yilun Du, Bruno Castro da Silva
 
-arXiv (coming soon) \| [Code](https://github.com/Valarzz/pdp) \| [Project](https://sites.google.com/view/parameterized-dp)
+[arXiv](https://arxiv.org/abs/2606.00336) \| [Code](https://github.com/Valarzz/pdp) \| [Project](https://sites.google.com/view/parameterized-dp)
 
 </div>
 </div>
