@@ -56,7 +56,7 @@ My research lies in **reinforcement learning**, bridging theory and practice. On
 
 **Renhao Zhang**, Shreyas Chaudhari, Bruno Castro da Silva
 
-arXiv (coming soon) \| Code (coming soon)
+[Paper]((https://openreview.net/pdf/59347aa037e1728d29bc6979e7d30dc1e60b79a9.pdf)) \| Code (coming soon)
 
 </div>
 </div>
@@ -68,7 +68,7 @@ arXiv (coming soon) \| Code (coming soon)
 
 **Renhao Zhang**, Haotian Fu, Mingxi Jia, George Konidaris, Yilun Du, Bruno Castro da Silva
 
-[arXiv](https://arxiv.org/abs/2606.00336) \| [Code](https://github.com/Valarzz/pdp) \| [Project](https://sites.google.com/view/parameterized-dp)
+[Paper](https://arxiv.org/abs/2606.00336) \| [Code](https://github.com/Valarzz/pdp) \| [Project](https://sites.google.com/view/parameterized-dp)
 
 </div>
 </div>
@@ -81,7 +81,7 @@ arXiv (coming soon) \| Code (coming soon)
 
 Mingzhe Li, **Renhao Zhang**, Zheng Wen, Sheng Pan, Bruno Castro da Silva, Juan Zhai, Shiqing Ma
 
-[arXiv](https://arxiv.org/abs/2511.22119) \| [Code](https://github.com/aaFrostnova/PromptMiner) 
+[Paper](https://arxiv.org/abs/2511.22119) \| [Code](https://github.com/aaFrostnova/PromptMiner) 
 
 </div>
 </div>
@@ -93,7 +93,7 @@ Mingzhe Li, **Renhao Zhang**, Zheng Wen, Sheng Pan, Bruno Castro da Silva, Juan 
 
 Shreyas Chaudhari\*, **Renhao Zhang**\*, Philip S. Thomas, Bruno Castro da Silva
 
-[arXiv](https://arxiv.org/abs/2510.00144) \| [Code](https://github.com/Valarzz/Reward-Selection) 
+[Paper](https://arxiv.org/abs/2510.00144) \| [Code](https://github.com/Valarzz/Reward-Selection) 
 
 </div>
 </div>
@@ -105,7 +105,7 @@ Shreyas Chaudhari\*, **Renhao Zhang**\*, Philip S. Thomas, Bruno Castro da Silva
 
 R. Kenny Jones, **Renhao Zhang**, Aditya Ganeshan, Daniel Ritchie
 
-[arXiv](https://arxiv.org/abs/2406.02383) \| [Code](https://github.com/rkjones4/VPI-Edit) \| [Project](https://rkjones4.github.io/vpi_edit.html)
+[Paper](https://arxiv.org/abs/2406.02383) \| [Code](https://github.com/rkjones4/VPI-Edit) \| [Project](https://rkjones4.github.io/vpi_edit.html)
 
 </div>
 </div>
@@ -117,7 +117,7 @@ R. Kenny Jones, **Renhao Zhang**, Aditya Ganeshan, Daniel Ritchie
 
 **Renhao Zhang**\*, Haotian Fu\*, Yilin Miao, George Konidaris
 
-[arXiv](https://arxiv.org/abs/2404.03037) \| [Code](https://github.com/Valarzz/DLPA) 
+[Paper](https://arxiv.org/abs/2404.03037) \| [Code](https://github.com/Valarzz/DLPA) 
 
 </div>
 </div>
@@ -129,7 +129,7 @@ R. Kenny Jones, **Renhao Zhang**, Aditya Ganeshan, Daniel Ritchie
 
 **Renhao Zhang**, Xuanheng Li, Nan Zhao
 
-[arXiv](https://ieeexplore.ieee.org/document/9915473) 
+[Paper](https://ieeexplore.ieee.org/document/9915473) 
 
 </div>
 </div>
