@@ -87,6 +87,22 @@
 
 }
 
+/* paper-box variant for text-only publications (image side hidden) */
+.paper-box.no-image {
+    .paper-box-image { display: none !important; }
+    .paper-box-text {
+        max-width: 100% !important;
+        padding-left: 0 !important;
+    }
+    /* Venue line right after the link row */
+    .paper-venue {
+        margin-top: 0.4em;
+        color: #555;
+        font-style: italic;
+        font-size: 0.95em;
+    }
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 

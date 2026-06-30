@@ -22,10 +22,11 @@ My research lies in **reinforcement learning**, bridging theory and practice. On
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉 Our [SURE](https://openreview.net/pdf/59347aa037e1728d29bc6979e7d30dc1e60b79a9.pdf) paper was accepted to the ICML 2026 DEMO Workshop as a Spotlight!
 - *2026.05*: &nbsp;Internship as an Applied Scientist Intern at the Amazon AWS Quick team. I'll be in bay area from May to August, 2026.
 - *2026.05*: I'm now a PhD candidate.
-- *2026.04*: &nbsp;🎉 Our [PDP]() paper was accepted to the ICML 2026. Unfortunately, I won't be able to be in Seoul to attend the conference in person.
-- *2026.02*: &nbsp;🎉 Our [PPROMPTMINERP]() paper was accepted to the CVPR 2026. I'll be in Denver for it.
+- *2026.04*: &nbsp;🎉 Our [PDP](https://arxiv.org/abs/2606.00336) paper was accepted to the ICML 2026. Unfortunately, I won't be able to be in Seoul to attend the conference in person.
+- *2026.02*: &nbsp;🎉 Our [PPROMPTMINERP](https://arxiv.org/abs/2511.22119) paper was accepted to the CVPR 2026. I'll be in Denver for it.
 - *2025.10*: &nbsp;🎉 My internship paper was published at the Amazon Machine Learning Conference (AMLC 2025), a premier internal conference, for a highlight talk.
 - *2025.09*: &nbsp;I'll be a TA for [COMPSCI 389](https://people.cs.umass.edu/~pthomas/courses/COMPSCI_389_Fall2025.html) in the Fall 2025 semester.
 - *2025.07*: &nbsp;🎉 Our [RLLF](https://openreview.net/attachment?id=W5GALARdqT&name=pdf) paper was accepted to the RLBrew & Finding the Frame workshops at RLC 2025.
@@ -49,19 +50,23 @@ My research lies in **reinforcement learning**, bridging theory and practice. On
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 DEMO Workshop</div><img src='images/sure_overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+<div class='paper-box-image'><div><img src='images/sure_overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Uncertainty-Guided Reward Labeling for Reinforcement Learning under Limited Feedback**
 
 **Renhao Zhang**, Shreyas Chaudhari, Bruno Castro da Silva
 
-[Paper]((https://openreview.net/pdf/59347aa037e1728d29bc6979e7d30dc1e60b79a9.pdf)) \| Code (coming soon)
+[Paper](https://openreview.net/pdf/59347aa037e1728d29bc6979e7d30dc1e60b79a9.pdf) \| Code (coming soon)
+
+<span class="paper-venue">ICML 2026 DEMO Workshop (<strong style="color: red;">Spotlights</strong>)</span>
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/pdp_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+<div class='paper-box-image'><div><img src='images/pdp_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **From Noise to Control: Parameterized Diffusion Policies**
@@ -70,35 +75,44 @@ My research lies in **reinforcement learning**, bridging theory and practice. On
 
 [Paper](https://arxiv.org/abs/2606.00336) \| [Code](https://github.com/Valarzz/pdp) \| [Project](https://sites.google.com/view/parameterized-dp)
 
+<span class="paper-venue">ICML 2026</span>
+
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/prompttimer_overview.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+<div class='paper-box-image'><div><img src='images/prompttimer_overview.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **PROMPTMINER: Black-Box Prompt Stealing against Text-to-Image Generative Models via Reinforcement Learning and Fuzz Optimization**
 
 Mingzhe Li, **Renhao Zhang**, Zheng Wen, Sheng Pan, Bruno Castro da Silva, Juan Zhai, Shiqing Ma
 
-[Paper](https://arxiv.org/abs/2511.22119) \| [Code](https://github.com/aaFrostnova/PromptMiner) 
+[Paper](https://arxiv.org/abs/2511.22119) \| [Code](https://github.com/aaFrostnova/PromptMiner)
+
+<span class="paper-venue">CVPR 2026</span>
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RLC 2025 RLBrew Workshop</div><img src='images/rewardselection_overview.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+<div class='paper-box-image'><div><img src='images/rewardselection_overview.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Which Rewards Matter? Reward Selection for Reinforcement Learning under Limited Feedback**
 
 Shreyas Chaudhari\*, **Renhao Zhang**\*, Philip S. Thomas, Bruno Castro da Silva
 
-[Paper](https://arxiv.org/abs/2510.00144) \| [Code](https://github.com/Valarzz/Reward-Selection) 
+[Paper](https://arxiv.org/abs/2510.00144) \| [Code](https://github.com/Valarzz/Reward-Selection)
+
+<span class="paper-venue">RLC 2025 RLBrew Workshop</span>
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/vpiedit_overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+<div class='paper-box-image'><div><img src='images/vpiedit_overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Learning to Edit Visual Programs with Self-Supervision**
@@ -107,29 +121,37 @@ R. Kenny Jones, **Renhao Zhang**, Aditya Ganeshan, Daniel Ritchie
 
 [Paper](https://arxiv.org/abs/2406.02383) \| [Code](https://github.com/rkjones4/VPI-Edit) \| [Project](https://rkjones4.github.io/vpi_edit.html)
 
+<span class="paper-venue">NeurIPS 2024</span>
+
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/dlpa_overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+<div class='paper-box-image'><div><img src='images/dlpa_overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Model-based Reinforcement Learning for Parameterized Action Spaces**
 
 **Renhao Zhang**\*, Haotian Fu\*, Yilin Miao, George Konidaris
 
-[Paper](https://arxiv.org/abs/2404.03037) \| [Code](https://github.com/Valarzz/DLPA) 
+[Paper](https://arxiv.org/abs/2404.03037) \| [Code](https://github.com/Valarzz/DLPA)
+
+<span class="paper-venue">ICML 2024</span>
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVT 2023</div><img src='images/dsaswipt_overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+<div class='paper-box-image'><div><img src='images/dsaswipt_overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **When DSA Meets SWIPT: A Joint Power Allocation and Time Splitting Scheme Based on Multi-Agent Deep Reinforcement Learning**
 
 **Renhao Zhang**, Xuanheng Li, Nan Zhao
 
-[Paper](https://ieeexplore.ieee.org/document/9915473) 
+[Paper](https://ieeexplore.ieee.org/document/9915473)
+
+<span class="paper-venue">IEEE Transactions on Vehicular Technology, 2023</span>
 
 </div>
 </div>
