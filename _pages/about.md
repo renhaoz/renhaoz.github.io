@@ -22,6 +22,8 @@ My research lies in **reinforcement learning**, bridging theory and practice. On
 
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉 Our paper "Uncertainty-Guided Reward Labeling for Reinforcement Learning under Limited Feedback" was accepted to the NeurIPS 2026!
+- *2026.09*: &nbsp;🎉 Our paper "Latent Barrier Steering: Hierarchical Safety for Generative Planning" was accepted to the NeurIPS 2026!
 - *2025.09*: &nbsp;I'll be a TA for [COMPSCI 687: Reinforcement Learning](https://people.cs.umass.edu/~pthomas/courses/CMPSCI_687_Fall2026.html) in the Fall 2026 semester. Ask me anything in CSL E213 2-4 pm every Wednesday!
 - *2026.06*: &nbsp;🎉 Our [SURE](https://openreview.net/pdf/59347aa037e1728d29bc6979e7d30dc1e60b79a9.pdf) paper was accepted to the ICML 2026 DEMO Workshop as a Spotlight!
 - *2026.05*: &nbsp;Internship as an Applied Scientist Intern at the Amazon AWS Quick team. I'll be in bay area from May to August, 2026.
@@ -52,6 +54,21 @@ My research lies in **reinforcement learning**, bridging theory and practice. On
 # 📝 Selected Publications
 
 <div class='paper-box'>
+<div class='paper-box-image'><div><img src='images/lbs_overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Latent Barrier Steering: Hierarchical Safety for Generative Planning**
+
+**Renhao Zhang**, Mingzhe Li, Bruno Castro da Silva
+
+[Paper](coming soon) \| Code (coming soon)
+
+<span class="paper-venue">NeurIPS 2026</span>
+
+</div>
+</div>
+
+<div class='paper-box'>
 <div class='paper-box-image'><div><img src='images/sure_overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -61,7 +78,7 @@ My research lies in **reinforcement learning**, bridging theory and practice. On
 
 [Paper](https://openreview.net/pdf/59347aa037e1728d29bc6979e7d30dc1e60b79a9.pdf) \| Code (coming soon)
 
-<span class="paper-venue">ICML 2026 DEMO Workshop (<strong style="color: red;">Spotlights</strong>)</span>
+<span class="paper-venue">NeurIPS 2026 & ICML 2026 DEMO Workshop (<strong style="color: red;">Spotlights</strong>)</span>
 
 </div>
 </div>
