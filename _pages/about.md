@@ -24,6 +24,7 @@ My research lies in **reinforcement learning**, bridging theory and practice. On
 # 🔥 News
 - *2026.09*: &nbsp;🎉 Our paper "Uncertainty-Guided Reward Labeling for Reinforcement Learning under Limited Feedback" was accepted to the NeurIPS 2026!
 - *2026.09*: &nbsp;🎉 Our paper "Latent Barrier Steering: Hierarchical Safety for Generative Planning" was accepted to the NeurIPS 2026!
+- *2026.09*: &nbsp;🎉 Our paper "Data Selection for Reward Labeling in Limited-Feedback Reinforcement Learning" was accepted to the TMLR!
 - *2025.09*: &nbsp;I'll be a TA for [COMPSCI 687: Reinforcement Learning](https://people.cs.umass.edu/~pthomas/courses/CMPSCI_687_Fall2026.html) in the Fall 2026 semester. Ask me anything in CSL E213 2-4 pm every Wednesday!
 - *2026.06*: &nbsp;🎉 Our [SURE](https://openreview.net/pdf/59347aa037e1728d29bc6979e7d30dc1e60b79a9.pdf) paper was accepted to the ICML 2026 DEMO Workshop as a Spotlight!
 - *2026.05*: &nbsp;Internship as an Applied Scientist Intern at the Amazon AWS Quick team. I'll be in bay area from May to August, 2026.
@@ -118,7 +119,7 @@ Mingzhe Li, **Renhao Zhang**, Zheng Wen, Sheng Pan, Bruno Castro da Silva, Juan 
 <div class='paper-box-image'><div><img src='images/rewardselection_overview.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Which Rewards Matter? Reward Selection for Reinforcement Learning under Limited Feedback**
+**Data Selection for Reward Labeling in Limited-Feedback Reinforcement Learning**
 
 Shreyas Chaudhari\*, **Renhao Zhang**\*, Philip S. Thomas, Bruno Castro da Silva
 
