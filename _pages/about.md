@@ -343,7 +343,7 @@ Project: Face recognition–based time and attendance system
 **Technical Reviewer**:
 - NeurIPS: 2026, 2025, 2024
 - ICLR: 2027
-- ICML: 2025
+- ICML: 2026, 2025
 - AISTATS: 2025
 - RLC: 2025
 - AAAI: 2027
