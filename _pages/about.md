@@ -22,6 +22,8 @@ My research lies in **reinforcement learning**, bridging theory and practice. On
 
 
 # 🔥 News
+- *2026.10*: &nbsp;🎉 Our paper "Learning What to Keep: Evidence-Gated Parameterized Skills for Frozen LLM Agents" was accepted to the NeurIPS 2026 Workshop TTCL! 
+- *2026.10*: &nbsp;🎉 Our paper "TRACE: Separating Action and Reasoning Teachers for Strategic SLM Training" was accepted to the NeurIPS 2026 Workshop SLMAgents!
 - *2026.09*: &nbsp;🎉 Our paper "Uncertainty-Guided Reward Labeling for Reinforcement Learning under Limited Feedback" was accepted to the NeurIPS 2026!
 - *2026.09*: &nbsp;🎉 Our paper "Latent Barrier Steering: Hierarchical Safety for Generative Planning" was accepted to the NeurIPS 2026!
 - *2026.09*: &nbsp;🎉 Our paper "Data Selection for Reward Labeling in Limited-Feedback Reinforcement Learning" was accepted to the TMLR!
@@ -32,8 +34,6 @@ My research lies in **reinforcement learning**, bridging theory and practice. On
 - *2026.04*: &nbsp;🎉 Our [PDP](https://arxiv.org/abs/2606.00336) paper was accepted to the ICML 2026. Unfortunately, I won't be able to be in Seoul to attend the conference in person.
 - *2026.02*: &nbsp;🎉 Our [PPROMPTMINERP](https://arxiv.org/abs/2511.22119) paper was accepted to the CVPR 2026. I'll be in Denver for it.
 - *2025.10*: &nbsp;🎉 My internship paper was published at the Amazon Machine Learning Conference (AMLC 2025), a premier internal conference, for a highlight talk.
-- *2025.09*: &nbsp;I'll be a TA for [COMPSCI 389： Introduction to Machine Learning](https://people.cs.umass.edu/~pthomas/courses/COMPSCI_389_Fall2025.html) in the Fall 2025 semester.
-- *2025.07*: &nbsp;🎉 Our [RLLF](https://openreview.net/attachment?id=W5GALARdqT&name=pdf) paper was accepted to the RLBrew & Finding the Frame workshops at RLC 2025.
 
 <details style="border: 0px solid #e0e0e0; border-radius: 0px; margin-top: 0.1em;">
   <summary style="padding: 0.2em; cursor: pointer; font-weight: bold; color: #333;">
@@ -41,6 +41,8 @@ My research lies in **reinforcement learning**, bridging theory and practice. On
   </summary>
   <div style="padding: 0.1em 0.75em 0.75em 0em; border-top: 0px solid #e0e0e0; margin-top: 0.5em;" markdown="1">
 
+  - *2025.09*: &nbsp;I'll be a TA for [COMPSCI 389： Introduction to Machine Learning](https://people.cs.umass.edu/~pthomas/courses/COMPSCI_389_Fall2025.html) in the Fall 2025 semester.
+  - *2025.07*: &nbsp;🎉 Our [RLLF](https://openreview.net/attachment?id=W5GALARdqT&name=pdf) paper was accepted to the RLBrew & Finding the Frame workshops at RLC 2025.
   - *2025.05*: &nbsp;Internship as an Applied Scientist Intern at the Amazon SCOT team. I'll be in Bellevue from May to August, 2025.
   - *2024.09*: &nbsp;🎉 [Learning to Edit Visual Programs with Self-Supervision](https://arxiv.org/abs/2406.02383) was accepted to NeurIPS 2024! I'll be in Vancouver this November.
   - *2024.09*: &nbsp;Started my new role as a PhD student at UMass Amherst.
