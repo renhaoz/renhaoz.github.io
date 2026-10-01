@@ -355,5 +355,5 @@ Project: Face recognition–based time and attendance system
 
 <hr/>
 <center>
-  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=NpfF3mAfW9BOkVDFjBGIylLvOmCu3Vyv5XU7QctPxJU&cl=ffffff&w=200"></script>
+  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=NpfF3mAfW9BOkVDFjBGIylLvOmCu3Vyv5XU7QctPxJU&cl=ffffff&w=200&t=tt"></script>
 </center>
