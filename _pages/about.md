@@ -192,7 +192,7 @@ R. Kenny Jones, **Renhao Zhang**, Aditya Ganeshan, Daniel Ritchie
 
 University of Massachusetts Amherst
 
-Ph.D. in Computer Science, *2024.09 – 2029.05 (Expected)*
+Ph.D. in Computer Science, *2024.09 – NOW*
 
 Advisor: [Bruno Castro da Silva](https://people.cs.umass.edu/~bsilva/)
 
@@ -341,7 +341,7 @@ Project: Face recognition–based time and attendance system
 # 🛎 Services
 
 **Technical Reviewer**:
-- NeurIPS: 2026, 2025, 2024
+- NeurIPS: 2026 (<strong style="color: red;">top reviewer</strong>), 2025, 2024
 - ICLR: 2027
 - ICML: 2026, 2025
 - AISTATS: 2025
