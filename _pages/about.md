@@ -22,6 +22,7 @@ My research lies in **reinforcement learning**, bridging theory and practice. On
 
 
 # 🔥 News
+- *2026.10*: &nbsp;🎉 Our paper "Learning Generative Motion Manifolds for World Models" was accepted to the CoRL 2026 Workshop LEAP! 
 - *2026.10*: &nbsp; I was recognized as a 'TOP REVIEWER' for NeurIPS 2026. 
 - *2026.10*: &nbsp;🎉 Our paper "Learning What to Keep: Evidence-Gated Parameterized Skills for Frozen LLM Agents" was accepted to the NeurIPS 2026 Workshop TTCL! 
 - *2026.10*: &nbsp;🎉 Our paper "TRACE: Separating Action and Reasoning Teachers for Strategic SLM Training" was accepted to the NeurIPS 2026 Workshop SLMAgents!
