@@ -66,7 +66,7 @@ My research lies in **reinforcement learning**, bridging theory and practice. On
 
 **Renhao Zhang**, Mingzhe Li, Bruno Castro da Silva
 
-Paper (coming soon) \| Code (coming soon)
+[Paper](https://arxiv.org/abs/2611.13227) \| Code (coming soon)
 
 <span class="paper-venue">NeurIPS 2026</span>
 
@@ -81,7 +81,7 @@ Paper (coming soon) \| Code (coming soon)
 
 **Renhao Zhang**, Shreyas Chaudhari, Bruno Castro da Silva
 
-Paper(coming soon) \| Code (coming soon)
+[Paper](https://arxiv.org/abs/2611.11091) \| Code (coming soon)
 
 <span class="paper-venue">NeurIPS 2026 & ICML 2026 DEMO Workshop (<strong style="color: red;">Spotlights</strong>)</span>
 
