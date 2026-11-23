@@ -59,6 +59,21 @@ My research lies in **reinforcement learning**, bridging theory and practice. On
 # 📝 Selected Publications
 
 <div class='paper-box'>
+<div class='paper-box-image'><div><img src='images/motionport_overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**What Should World Models Plan Over? Learning Geometry-Aligned Representations of Body Motion**
+
+**Renhao Zhang**, Abhranil Chandra, Bruno Castro da Silva
+
+[Paper](coming soon) \| Code (coming soon)
+
+<span class="paper-venue">Preprint</span>
+
+</div>
+</div>
+
+<div class='paper-box'>
 <div class='paper-box-image'><div><img src='images/lbs_overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
