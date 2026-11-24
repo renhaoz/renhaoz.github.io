@@ -66,7 +66,7 @@ My research lies in **reinforcement learning**, bridging theory and practice. On
 
 **Renhao Zhang**, Abhranil Chandra, Bruno Castro da Silva
 
-Paper (coming soon) \| Code (coming soon)
+[Paper](https://arxiv.org/abs/2611.29759) \| Code (coming soon)
 
 <span class="paper-venue">Preprint</span>
 
